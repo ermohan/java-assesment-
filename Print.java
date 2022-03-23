@@ -6,5 +6,4 @@ System.out.println(a+" "+b+" "+c+" "+d);
 System.out.print(a+" "+b+" "+c+" "+d);
 System.out.printf("\n%d %d %d %d",a,b,c,d);
 	}
-
 }
